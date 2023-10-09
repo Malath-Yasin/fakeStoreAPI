@@ -1,3 +1,9 @@
+/* .fixed-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+} */
+
 main{
     display:grid;
     grid-template-columns: repeat(4,1fr);
@@ -34,4 +40,55 @@ main{
 .card p{
     font-weight: bold;
     
+}
+/* styling part two the form and the posts cards  */
+.container{
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: rgba(230, 229, 229, 0.466);
+    height: 300px;
+    width: 600px;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    margin-top: 80px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+input{
+    height: 40px;
+    margin-top: 100px;
+    width: 350px;
+    margin-bottom: 50px;
+}
+h3{
+    text-align: center;
+    font-weight: bold;
+}
+#postCard{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+   margin: 20px;
+
+}
+.comment{
+    border: 3px solid rgb(7, 60, 7);
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 200px;
+    margin: 20px;
+}
+
+#deleteBtn{
+    border: 1px solid green;
+    border-radius: 20px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+#editBtn{
+    border: 1px solid green;
+    border-radius: 20px;
 }

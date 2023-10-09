@@ -1,11 +1,536 @@
 {
-    "posts": [
-      { "id": 1, "title": "Hello World" },
-      { "id": 2, "title": "JSON Server" }
-    ],
-    "comments": [
-      { "id": 1, "body": "This is a comment.", "postId": 1 },
-      { "id": 2, "body": "Another comment.", "postId": 1 }
-    ]
-  }
-  
+  "posts": [
+    {
+      "comment": "hii",
+      "id": 1
+    },
+    {
+      "comment": "",
+      "id": 2
+    },
+    {
+      "comment": "hello",
+      "id": 3
+    },
+    {
+      "comment": "",
+      "id": 4
+    },
+    {
+      "comment": "malath",
+      "id": 5
+    },
+    {
+      "comment": "malath1",
+      "id": 6
+    },
+    {
+      "comment": "hello",
+      "id": 7
+    },
+    {
+      "comment": "hello",
+      "id": 8
+    },
+    {
+      "comment": "hii",
+      "id": 9
+    },
+    {
+      "comment": "malath1",
+      "id": 10
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 11
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 12
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 13
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 14
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 15
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 16
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 17
+    },
+    {
+      "comment": [
+        "malath"
+      ],
+      "id": 18
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 19
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 20
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 21
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 22
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 23
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 24
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 25
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 26
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 27
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 28
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 29
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 30
+    },
+    {
+      "comment": [
+        ""
+      ],
+      "id": 31
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 32
+    },
+    {
+      "comment": [
+        ""
+      ],
+      "id": 33
+    },
+    {
+      "comment": [
+        ""
+      ],
+      "id": 34
+    },
+    {
+      "comment": [
+        ""
+      ],
+      "id": 35
+    },
+    {
+      "comment": [
+        ""
+      ],
+      "id": 36
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 37
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 38
+    },
+    {
+      "comment": [
+        "malath"
+      ],
+      "id": 39
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 40
+    },
+    {
+      "comment": [
+        "malath"
+      ],
+      "id": 41
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 42
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 43
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 44
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 45
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 46
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 47
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 48
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 49
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 50
+    },
+    {
+      "comment": [
+        "malath1"
+      ],
+      "id": 51
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 52
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 53
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 54
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 55
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 56
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 57
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 58
+    },
+    {
+      "comment": [
+        "malath1"
+      ],
+      "id": 59
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 60
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 61
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 62
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 63
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 64
+    },
+    {
+      "comment": [
+        "malath1"
+      ],
+      "id": 65
+    },
+    {
+      "comment": [
+        "welcome to our store"
+      ],
+      "id": 66
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 67
+    },
+    {
+      "comment": [
+        "malath"
+      ],
+      "id": 68
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 69
+    },
+    {
+      "comment": [
+        "malath12"
+      ],
+      "id": 70
+    },
+    {
+      "comment": [
+        "hello new"
+      ],
+      "id": 71
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 72
+    },
+    {
+      "comment": [
+        "malath"
+      ],
+      "id": 73
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 74
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 75
+    },
+    {
+      "comment": [
+        "malath"
+      ],
+      "id": 76
+    },
+    {
+      "comment": [
+        "malath"
+      ],
+      "id": 77
+    },
+    {
+      "comment": [
+        "malath"
+      ],
+      "id": 78
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 79
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 80
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 81
+    },
+    {
+      "comment": [
+        "malath12"
+      ],
+      "id": 82
+    },
+    {
+      "comment": [
+        "malath12"
+      ],
+      "id": 83
+    },
+    {
+      "comment": [
+        "malath"
+      ],
+      "id": 84
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 85
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 86
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 87
+    },
+    {
+      "comment": [
+        "hii"
+      ],
+      "id": 88
+    },
+    {
+      "comment": [
+        "hello"
+      ],
+      "id": 89
+    },
+    {
+      "comment": [
+        "malath1"
+      ],
+      "id": 90
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "This is a comment.",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Another comment.",
+      "postId": 1
+    }
+  ]
+}
